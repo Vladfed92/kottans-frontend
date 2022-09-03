@@ -11,14 +11,13 @@ After understanding that i must studing on ubuntu, it was cool and something new
 
 ## Intro to HTML & CSS
 
-Fore me it was good time for refresh my memory, was fun)
+For me it was good time for refresh my memory, was fun)
 
 ## Responsive Web Design
 
-Take new good knowlage about responsive design adn cool practice by games :)
+Take new good knowledge about responsive design and cool practice by games :)
 
 ## HTML & CSS Practice
 
-Wont new 100+ lines in CSS? no problem, popup without JS will halp you with it)
-For me it was new and good practice, ecpacialy with discovered a new property in input tag (checked + .popup)
+Need new 100+ lines in CSS? no problem, popup without JS will help you with it) For me it was new and good practice, especially with discovered a new property in input tag (checked + .popup)
 
