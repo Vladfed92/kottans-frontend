@@ -26,7 +26,7 @@ Try it! It’s fun, we promise :)
 
 **Please, add your greetings at the end of file.**
 
-By the way, creating issues is fun too!
+By the way, creating issues is fun too!!
 
 ---
 ## Hi kottans, my name is Andrii.
